@@ -1,1 +1,2 @@
-![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/nixguin/password-generator/badge)
+![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/10267/badge)
+
