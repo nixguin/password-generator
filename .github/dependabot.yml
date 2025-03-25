@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "pip" # Change this if you're using Python or another language
+    directory: "/" # Location of package files ("/" means root directory)
+    schedule:
+      interval: "weekly"
