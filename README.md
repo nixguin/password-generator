@@ -9,4 +9,3 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/nixguin/password-generator/badge)](https://securityscorecards.dev/viewer/?uri=github.com/nixguin/password-generator)
 
 
-
